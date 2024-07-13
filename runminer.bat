@@ -1,0 +1,2 @@
+PS E:\Twitch Miners\Twitch Channel Points Miner\Twitch-Channel-Points-Miner-v2> .\env\Scripts\activate
+(env) PS E:\Twitch Miners\Twitch Channel Points Miner\Twitch-Channel-Points-Miner-v2> python .\example.py
